@@ -3,7 +3,7 @@
 
 #### Usage
 
-Pprints the temperature of given city. 
+Prints the temperature of given city. 
 
 #### Pull image
 
@@ -20,4 +20,6 @@ $ docker build -t weather-app .
 ```
 For using this container you may need an api for this service:
 * [Openweathermap](https://home.openweathermap.org/users/sign_up)
+
+
 
